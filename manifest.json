@@ -1,0 +1,17 @@
+{
+  "name": "Whiskerwag",
+  "short_name": "Whiskerwag",
+  "description": "Adopt a kitten or a puppy. Feed it, bathe it, tuck it in, dress it up, and teach it to talk back.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6d69f",
+  "theme_color": "#3b2a22",
+  "categories": ["games", "kids", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
